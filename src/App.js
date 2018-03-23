@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
 import "bootswatch/journal/bootstrap.css";
 
